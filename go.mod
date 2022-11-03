@@ -77,7 +77,7 @@ require (
 	github.com/xlab/treeprint v0.0.0-20161029104018-1d6e34225557
 	github.com/zclconf/go-cty v1.12.0
 	github.com/zclconf/go-cty-debug v0.0.0-20191215020915-b22d67c1ba0b
-	github.com/zclconf/go-cty-yaml v1.0.2
+	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/net v0.0.0-20220927171203-f486391704dc
